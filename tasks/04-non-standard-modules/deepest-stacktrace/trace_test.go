@@ -33,7 +33,7 @@ func ExampleGetDeepestStackTrace() {
 	// deepest-stacktrace.ExampleGetDeepestStackTrace
 	//     trace_test.go:19
 	// main.main
-	//     .:49
+	//     .:47
 }
 
 func TestGetDeepestStackTrace_Nil(t *testing.T) {
